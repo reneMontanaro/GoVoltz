@@ -42,6 +42,53 @@ Planned technology stack:
 
 ## Status
 
+# GoVoltz
+
+**Uma experiência melhor de recarga de veículos elétricos, da descoberta à recarga.**
+
+## Sobre o GoVoltz
+
+O GoVoltz é uma plataforma digital criada para melhorar a experiência de recarga de veículos elétricos.
+
+Nosso objetivo é ajudar motoristas a localizar, comparar e escolher eletropostos de acordo com suas necessidades, considerando fatores como localização, preço, velocidade de carregamento, disponibilidade e compatibilidade com o veículo.
+
+## Visão do Produto
+
+Tornar a recarga de veículos elétricos mais simples, inteligente e previsível.
+
+## O Problema
+
+Encontrar um eletroposto é apenas parte do problema.
+
+Os motoristas precisam de informações confiáveis para decidir onde recarregar, quanto vão pagar, quanto tempo levará a recarga e se o eletroposto realmente estará disponível.
+
+O GoVoltz busca simplificar toda essa jornada de decisão.
+
+## Organização do Projeto
+
+| Diretório | Descrição |
+|---|---|
+| 01 — Product Vision | Visão, problema e proposta de valor |
+| 02 — Market Research | Mercado, concorrentes e pesquisas |
+| 03 — Product Strategy | Público, posicionamento e modelo de negócio |
+| 04 — MVP Scope | Funcionalidades, requisitos e jornadas |
+| 05 — Architecture | Arquitetura técnica e integrações |
+| 06 — Roadmap | Evolução, prioridades e experimentos |
+
+## Tecnologias Planejadas
+
+- FlutterFlow — Desenvolvimento do aplicativo
+- Supabase — Backend e banco de dados
+- GitHub — Versionamento e documentação do projeto
+
+## Estágio Atual
+
+Discovery do produto e definição do MVP.
+
+---
+
+*GoVoltz — Uma nova experiência em recarga elétrica.*
+
 **Stage:** Product Discovery / MVP Definition
 
 ---
