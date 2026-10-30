@@ -1,33 +1,33 @@
-# GoVoltz — Product Vision
+# GoVoltz — Visão do Produto
 
-## Vision
+## Visão
 
-Make EV charging simpler, smarter and more predictable.
+Tornar a recarga de veículos elétricos mais simples, inteligente e previsível.
 
-GoVoltz aims to transform the electric vehicle charging experience by helping drivers make better charging decisions.
+O GoVoltz busca transformar a experiência de recarga, ajudando motoristas a tomar decisões melhores sobre onde, quando e como recarregar seus veículos.
 
-## Our Purpose
+## Nosso Propósito
 
-Help EV drivers find and choose the best charging option for their needs, considering price, distance, charging speed, availability and vehicle compatibility.
+Ajudar motoristas de veículos elétricos a encontrar e escolher a melhor opção de recarga para cada situação, considerando preço, distância, velocidade de carregamento, disponibilidade e compatibilidade com o veículo.
 
-## Product Ambition
+## Ambição do Produto
 
-GoVoltz aims to evolve beyond a charging station discovery app into an intelligent platform that supports the entire charging journey.
+O GoVoltz pretende ir além de um aplicativo de localização de eletropostos, evoluindo para uma plataforma inteligente que apoie o motorista durante toda a jornada de recarga.
 
-## Core Principles
+## Princípios do Produto
 
-- **Simplicity:** Reduce friction throughout the charging journey.
-- **Transparency:** Provide clear and reliable information.
-- **Intelligence:** Help users make better charging decisions.
-- **Convenience:** Save users time and effort.
-- **Trust:** Build confidence in charging station information and experiences.
+- **Simplicidade:** reduzir atritos durante a jornada de recarga.
+- **Transparência:** apresentar informações claras e confiáveis.
+- **Inteligência:** ajudar o usuário a tomar decisões melhores.
+- **Conveniência:** economizar tempo e esforço do motorista.
+- **Confiança:** transmitir segurança sobre as informações e experiências de recarga.
 
-## Product Direction
+## Direcionamento do Produto
 
-The product will initially focus on helping drivers discover, compare and select charging stations.
+Inicialmente, o produto terá como foco ajudar motoristas a localizar, comparar e selecionar eletropostos.
 
-Over time, GoVoltz may expand into reservations, payments, charging history, personalized recommendations and additional mobility services.
+Ao longo do tempo, poderá evoluir para incluir reservas, pagamentos, histórico de recargas, recomendações personalizadas e outros serviços relacionados à mobilidade elétrica.
 
-## Current Stage
+## Estágio Atual
 
-Product Discovery and MVP Definition.
+Discovery do Produto e Definição do MVP.
