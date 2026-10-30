@@ -1,10 +1,14 @@
-# 04 — MVP Scope
+# 04 — MVP Scope | Escopo do MVP
+
+## 🇺🇸 English
 
 This section defines the scope of the GoVoltz Minimum Viable Product (MVP).
 
 It documents the product features, functional requirements, business rules, user journeys and prioritized backlog.
 
-## Key Areas
+The objective is to deliver a functional product that solves the core problems faced by EV drivers while keeping development complexity under control.
+
+### Key Areas
 
 - Core features and functionalities
 - Functional and non-functional requirements
@@ -13,8 +17,29 @@ It documents the product features, functional requirements, business rules, user
 - Feature prioritization
 - MVP backlog and acceptance criteria
 
-## MVP Objective
+## 🇧🇷 Português
 
-Deliver a functional product that helps EV drivers find, compare and choose charging stations based on their needs, providing a simpler and more reliable charging experience.
+Esta seção define o escopo do Produto Mínimo Viável (MVP) do GoVoltz.
 
-The MVP scope must prioritize solving the core user problems while keeping development complexity under control.
+Documenta as funcionalidades, os requisitos funcionais e não funcionais, as regras de negócio, as jornadas dos usuários e o backlog priorizado.
+
+O objetivo é entregar um produto funcional que resolva os principais problemas enfrentados pelos motoristas de veículos elétricos, mantendo a complexidade de desenvolvimento sob controle.
+
+### Áreas Principais
+
+- Funcionalidades essenciais
+- Requisitos funcionais e não funcionais
+- Regras de negócio
+- Jornadas e fluxos de experiência
+- Priorização de funcionalidades
+- Backlog do MVP e critérios de aceite
+
+---
+
+## Section Documents | Documentos da Seção
+
+- `features.md` — Product Features | Funcionalidades
+- `requirements.md` — Requirements | Requisitos
+- `business-rules.md` — Business Rules | Regras de Negócio
+- `user-journeys.md` — User Journeys | Jornadas dos Usuários
+- `backlog.md` — Product Backlog | Backlog do Produto
